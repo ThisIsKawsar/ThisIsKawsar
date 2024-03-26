@@ -1,6 +1,9 @@
+Hi 👋, I'm Kawsar
+👑 I am Full Stack Web Developer |Data Scientist 🖊️ Love to write code 🎤 Like to share my knowledge
 # 💫 About Me:
 <br>As a skilled Full Stack Web Developer, I excel in crafting exceptional websites that delight clients and surpass expectations. My expertise spans various programming languages, including C, C++, Python, JavaScript, PHP, and SQL, allowing me to play a pivotal role in designing, developing, and maintaining numerous systems that streamline business operations.<br><br>Collaborating closely with product managers and UI/UX designers, I ensure user-friendly interfaces and optimal user experiences across all projects. Additionally, I bring a strong foundation in data analysis and machine learning, applying statistical models and algorithms to derive meaningful insights and enhance system performance.<br><br>With a keen eye for detail, I successfully resolve complex technical issues, contributing to system stability and reducing downtime. My proficiency in Agile methodologies facilitates seamless project management, while my ability to design hypothesis tests and communicate insights through visual representations adds value to every project.<br><br>Driven by a passion for learning, I am committed to staying abreast of emerging technologies and continually refining my skills to deliver innovative solutions. Let's collaborate to create web solutions that captivate, inspire, and drive success.
-
+- 👨‍💻 All of my projects are available on GitHub
+[https://thisiskawsar.github.io/ThisIsKawsar/]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/kawsar-ahmed-92594a113) 
